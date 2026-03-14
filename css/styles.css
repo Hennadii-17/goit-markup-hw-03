@@ -15,7 +15,10 @@ h1,h2,h3,h4,h5,h6, p {
     margin: 0;
 }
 
-a {
+.logo,
+.nav-link,
+.contacts-link,
+.footer-logo {
     text-decoration: none;
 }
 
@@ -54,13 +57,12 @@ img {
     color: #4d5ae5;
 }
 
-.header-logo {
-    padding: 24px 0;
-    margin-right: 76px;
+.logo-dark {
+    color: #2e2f42;
 }
 
-.header-logo .logo-part {
-    color: #2e2f42;
+.logo-light {
+    color: #f4f4fd;
 }
 
 
