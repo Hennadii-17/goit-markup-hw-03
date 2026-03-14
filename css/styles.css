@@ -11,13 +11,7 @@ ol {
     padding: 0;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p {
+h1,h2,h3,h4,h5,h6, p {
     margin: 0;
 }
 
@@ -175,7 +169,7 @@ img {
     gap: 24px;
 }
 
-.features-list li {
+.features-list  {
     width: calc((100% - 72px) / 4);
 }
 
