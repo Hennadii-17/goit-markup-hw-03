@@ -56,6 +56,10 @@ img {
     text-transform: uppercase;
     color: #4d5ae5;
 }
+.header-logo {
+    padding: 24px 0;
+    margin-right: 76px;
+}
 
 .logo-dark {
     color: #2e2f42;
