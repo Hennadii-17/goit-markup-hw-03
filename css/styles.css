@@ -169,8 +169,10 @@ img {
     gap: 24px;
 }
 
-.features-item {
-    width: calc(100% - 72px) / 4;
+
+
+.features-item{
+    width: calc((100% - 72px) / 4);
 }
 
 
